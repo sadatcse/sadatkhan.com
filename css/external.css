@@ -1,0 +1,51 @@
+.background-image {
+    background-image: url('/Images/Banner\ section\ back.png');
+    background-size: cover; 
+    background-position: center center;
+  }
+
+  .custom-text {
+    font-size: 58px;
+    color: rgb(241, 91, 116);
+    transition: color 0.3s; /* Add smooth transition effect */
+  }
+  
+  .custom-text:hover {
+    color: rgb(21, 168, 218);
+  }
+  
+  .light-purple-bg {
+    background-color: #0f0c0f; /* Light Purple color code */
+    /* You can add more styling properties here */
+  }
+
+  e39816
+
+.logo-top {
+    color:#e39816 ;
+    text-align: center;
+  }
+
+.nav-background{
+    background-color: #990b20;
+    
+   
+    
+}
+
+.social-icons a {
+    color: #797979;
+    font-size: 24px;
+    margin: 0 10px;
+    transition: color 0.3s; /* Smooth transition for hover effect */
+    padding-bottom: 10px;
+    
+  }
+
+  .social-icons a:hover {
+    color: #007bff; /* Hover color (blue) */
+  }
+
+  nav li a {
+    color: #990b20;
+  }
